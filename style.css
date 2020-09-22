@@ -23,3 +23,13 @@
     background-color: yellow;
     height: 80px;
 }
+
+.col-8{
+    background-color: purple;
+    height: 120px;
+}
+
+.col-4 {
+    background-color: grey;
+    height: 130px;
+}
